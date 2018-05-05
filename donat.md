@@ -1,6 +1,7 @@
 # Donat Playground
 
 ### Bahan:
+- baking powder
 - Oli 
 - 200 cc air mineral
 - 1/2 bungkus ragi instan 11 gram
